@@ -1,1 +1,4 @@
+sqlalchemy==2.0.41
+mysql-connector-python
 streamlit
+
