@@ -1,5 +1,5 @@
-sqlalchemy==2.0.41
-mysql-connector-python
-streamlit
+streamlit>=1.35.0
+SQLAlchemy==2.0.21
+mysqlclient==2.2.5
+pymysql
 pandas
-
